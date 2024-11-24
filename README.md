@@ -2,7 +2,7 @@ In this study, I tried to manipulate, analyze and extract some insights along wi
 
 **Dataset:** [Diamonds](https://www.kaggle.com/datasets/shivam2503/diamonds)
 ## **Tools and Technologies Used**
-- **Programming Language:**  Python 3.10<br>
+- **Programming Language:**  Python 3.8.20<br>
 - **Code Editor:**  VS Code<br><br>
 - **Libraries:**<br>
   - Math
