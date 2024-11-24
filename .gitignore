@@ -1,0 +1,85 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Debug files
+*.prof
+*.lprof
+*.pdb
+
+# --- Jupyter ---
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter config and runtime files
+.jupyter/
+.local/share/jupyter/
+
+# Notebook backups and metadata
+*.ipynb~
+*.~ipynb
+
+# --- VS Code ---
+# VS Code settings and workspace files
+.vscode/
+*.code-workspace
+
+# --- Logs and temporary files ---
+*.log
+*.tmp
+*.temp
+*.pid
+*.gz
+
+# --- Operating System ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- IDEs and editors ---
+# IntelliJ IDEA / PyCharm
+.idea/
+*.iml
+
+# vim swap files
+*.swp
+*.swo
+
+# --- Optional: Exclude large dataset files ---
+
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.json
+*.parquet
+*.zip
+
+# --- Optional: Other environment managers ---
+# Poetry
+.poetry/
+
+# Conda
+*.conda
+*.condarc
+conda-meta/
